@@ -26,7 +26,7 @@ module.exports = [
 
             "https://images.unsplash.com/photo-1444117002436-be442e10757e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q"
         ],
-        instructions: "Venha como se sentir a vontade e traga muito amor e paciência para dar.",
+        instructions: "Venha nos visitar e traga muito amor e paciência para dar.",
         opening_hours: "Horário de visitas das 9h até 17h",
         open_on_weekends: "0"
 

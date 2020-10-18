@@ -99,4 +99,11 @@ function toggleSelect(event) {
 
     input.value = button.dataset.value
     //console.log(input);
+
+    // DESAFIO - validae se Latitude e Longitude estão preenchidos
+    const needsLatAndLng = false; // descobrir o jeito de como mudar para true, se o formulário não estiver totalmente preenchido.
+    if(needsLatAndLng) {
+        event.preventDefault();
+        alert('Selecione um ponto no mapa.');
+    }
 }
